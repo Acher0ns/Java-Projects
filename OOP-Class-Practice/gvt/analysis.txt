@@ -1,0 +1,28 @@
+Attack
+    DamageType
+    damagePerHit[]
+    Name
+
+Mage
+    Name
+    MAX_HIT_POINTS
+    currentHitPoints
+    min/max attack
+    min/max hits
+    DamageType
+    isConcious
+
+    attack
+    takeDamage(special mod goes here)
+
+Fighter
+    Name
+    MAX_HIT_POINTS
+    currentHitPoints
+    min/max attack
+    min/max hits
+    DamageType
+    isConcious
+
+    attack
+    takeDamage(special mod goes here)

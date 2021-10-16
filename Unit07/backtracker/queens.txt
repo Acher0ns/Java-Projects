@@ -1,0 +1,15 @@
+1:
+Queens that been placed
+Number of Queens placed
+Last move made
+Do we need a chessboard?
+
+2:
+No queens are attacking each other
+
+3:
+There are N-Queens on the board and it is valid
+
+4:
+set of next possible moves
+create one for every empty square on the board?

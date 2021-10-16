@@ -1,0 +1,27 @@
+Product
+    Noun
+        Name
+        Product Code
+        MSRP
+
+Truck
+    Noun
+        Capacity        
+        Load
+        currentLoad
+    Verb 
+        Unload
+        Load
+
+Factory              
+    Noun
+        Products         
+    Verb
+        Manufacture(Make)
+
+Complex
+    Noun
+        Factories
+        Trucks
+    Verb
+        Load
